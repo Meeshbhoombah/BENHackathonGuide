@@ -7,7 +7,7 @@
   - [Announcing the event](#)
   - [Registration (Optional)](#)
   - [Venue](#)
-      - [Location](#)
+    - [Location](#)
     - [Insurance](#)
     - [Security](#)
     - [Secure sites and photo ID](#)
@@ -98,7 +98,7 @@ There are also a number of things you probably should not ask for, like gender, 
 
 ### Venue
 
-##### Location
+#### Location
 
 The venue should be relatively easy for people from outside of town to locate, with good public transport links. If it’s difficult to reach, try to provide alternative means of transportation, such as coaches to/from local transport hubs throughout the event. Provide a full address, and if necessary, additional instructions to all attendees well in advance of the event.
 
