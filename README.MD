@@ -2,10 +2,10 @@
 
 **Table of Contents**
 
-- [The Basics](#)
-- [Tips](#)
-  - [Announcing the event](#)
-  - [Registration (Optional)](#)
+- [The Basics](#the-basics)
+- [Tips](#tips)
+  - [Announcing the event](#annoucing-the-event)
+  - [Registration (Optional)](#registration-(optional))
   - [Venue](#)
     - [Location](#)
     - [Insurance](#)
